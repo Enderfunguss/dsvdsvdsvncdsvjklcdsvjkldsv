@@ -1,0 +1,49 @@
+.page-header {
+  background: #4e4e50;
+  border-radius: 30px;
+  padding-right: 10px;
+  padding-left: 10px;
+  margin-top: 10px;
+}
+
+.trained-on-div {
+  background: #c3073f;
+  border-radius: 20px;
+  margin: 5px;
+}
+
+.trained-on-div span {
+  background: #950740;
+  border-radius: 10px;
+  margin-bottom: 2px;
+  color: aliceblue;
+}
+
+.triangle-right {
+  width: 0;
+  height: 0;
+  border-top: 50px solid transparent;
+  border-left: 100px solid red;
+  border-bottom: 50px solid transparent;
+}
+
+.canvas-related button {
+  box-shadow: 5px 5px 5px black;
+  color: whitesmoke;
+  background-color: crimson;
+  margin-top: 2px;
+}
+
+canvas {
+  border-top: dotted;
+  border-left: solid;
+  border-right: solid;
+  border-bottom: dashed;
+  margin-top: 300px;
+}
+
+#person,
+#accuracy {
+  color: white;
+  background-color: lightcoral;
+}
